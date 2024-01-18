@@ -18,7 +18,10 @@
     line-height: 26px;
     padding-bottom: 50px;
   }
-  
+  .contact-div{
+    display: flex;
+    justify-content: left;
+  }
   .container {
     max-width: 700px;
     background: #fff;
@@ -29,6 +32,12 @@
     margin-top: 50px;
   }
   
+  .separator2{
+    height: 10px;
+    display: inline-block;
+    border-left: 2px solid #999;
+    margin: 10px 10px;
+  }
   .header {
     margin-bottom: 30px;
   }
